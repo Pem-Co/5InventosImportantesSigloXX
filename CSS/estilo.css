@@ -1,0 +1,57 @@
+body{
+	font-family: Comic Sans Ms;
+	background-color: lightblue;
+}
+img{
+	max-width: 300px;
+	max-height: 200px;
+}
+.table{
+	vertical-align: middle;
+	background-color: #12E220;
+	width: 75%;
+	height: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.c11{
+	vertical-align: middle;
+	text-align: center;
+	font-size: 150%;
+	font-weight: 700;
+	column-width: 25%; 
+}
+.c12{
+	vertical-align: middle;
+	text-align: center;
+	font-size: 150%;
+	font-weight: 700;
+	column-width: 50%;
+}
+.c13{
+	vertical-align: middle;
+	text-align: center;
+	font-size: 150%;
+	font-weight: 700;
+	column-width: 25%;
+}
+.c2{
+	vertical-align: middle;
+	text-align: center;
+}
+.c3{
+	vertical-align: middle;
+	text-align: center;
+}
+.c4{
+	vertical-align: middle;
+	text-align: center;
+}
+.c5{
+	vertical-align: middle;
+	text-align: center;
+}
+.c6{
+	vertical-align: middle;
+	text-align: center;
+}
